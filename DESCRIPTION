@@ -1,0 +1,23 @@
+Package: fireworks
+Type: Package
+Title: Fireworks for R
+Version: 0.0.1
+Description: A toolbox for hacking on the language.
+Authors@R: 
+    c(person(given = "Charlie",
+             family = "Gao",
+             role = c("aut", "cre"),
+             email = "charlie.gao@shikokuchuo.net",
+             comment = c(ORCID = "0000-0002-0750-061X")),
+      person(given = "Hibiki AI Limited",
+             role = "cph"),
+      person(given = "R Core",
+             role = "cph"))
+License: GPL (>= 3)
+BugReports: https://github.com/shikokuchuo/fireworks/issues
+URL: https://shikokuchuo.net/fireworks/,
+     https://github.com/shikokuchuo/fireworks/
+Encoding: UTF-8
+Depends: 
+    R (>= 4.4)
+RoxygenNote: 7.3.1

@@ -1,0 +1,17 @@
+url: https://shikokuchuo.net/fireworks/
+template:
+  bootstrap: 5
+  bslib:
+    primary: "#0043ce"
+    base_font: {google: {family: "Source Sans Pro", wght: [400, 600], ital: [0, 1]}}
+    code_font: {google: "Source Code Pro"}
+navbar:
+  right:
+  - icon: fa-github
+    href: https://github.com/shikokuchuo/fireworks/
+  - icon: fa-cube
+    href: https://shikokuchuo.net/
+reference:
+- contents:
+  - fireworks-package
+  - matches("^[a-zA-Z]*")
